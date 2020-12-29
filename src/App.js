@@ -11,6 +11,9 @@ function App() {
         <h1>We now have Auth!</h1>
       </header>
       <AmplifySignOut />
+      <footer>
+        ctkeane @2020
+      </footer>
     </div>
   );
 }
